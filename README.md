@@ -1,5 +1,5 @@
-### Hi there 👋
--Ace
+### What's up man
+- Name is Asa, but my friends call me Ace.  
 <!--
 **asarogers/asarogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
