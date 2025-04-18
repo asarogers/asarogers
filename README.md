@@ -1,16 +1,25 @@
-### What's up man
-- Name is Asa, but my friends call me Ace.  
+### What's up man 👋  
+Name is **Asa**, but my friends call me **Ace**.
+
+---
+
+I'm a Robotics Software Engineer with a passion for building intelligent, responsive robots that can move, see, and reason. I love deploying real systems that do real things — whether it’s controlling quadrupeds, SLAM-ing through tight spaces, or dropping corrective audio from a ROS node.
+
+- 🤖 ROS 2, SLAM, and Navigation.
+- 🧠 YOLO, Behavior Classification & Autonomous Feedback.
+- 🔊 Bluetooth & Real-time Audio Systems.
+- 🛠️ From low-level firmware to full-stack robot behavior.
+
+---
+
+📍 Based in the field, anywhere robots need to move smart.  
+📬 Let's talk cool bots and collabs: **[your_email@domain.com]**
+
+---
+
 <!--
-**asarogers/asarogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**asarogers/asarogers** is a ✨ _special_ ✨ repo because its `README.md` shows up on your GitHub profile!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+This is a quick preview of Ace’s world.  
+Want to see a robot learn not to mess with the bathroom trash can? Scroll down and hit those pinned projects 💥
 -->
