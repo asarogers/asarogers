@@ -1,4 +1,4 @@
-### What's up man 👋  
+### Hi friends,
 Name's **Asa**, but my friends call me **Ace**.
 
 ---
@@ -35,15 +35,6 @@ We:
 
 ---
 
-### 👨🏾‍💻 Experience
-- **Software Engineer Intern @ ServiceNow**
-- **R&D Intern @ Sandia National Labs**
-- **Dev Intern @ Deloitte (Cloud + React + Angular)**
-- **AI Researcher @ Alabama A&M (Big Data + Anomaly Detection)**
-- **Full-stack Dev @ Sonoco (MERN, PHP, Selenium Testing)**
-
----
-
 ### 🏆 Hackathon W's
 - 🥇 AABE Hackathon (Alabama Power)
 - 🥇 Sandia Labs Tracer Fire Reverse Engineering
@@ -53,7 +44,7 @@ We:
 ---
 
 ### 🔗 Links
-- 🌐 [Portfolio Website](https://asarogers.github.io/Portfolio/)
+- 🌐 [Portfolio Website]([https://asarogers.github.io/Portfolio/](https://www.aethurtech.com/))
 - 💼 [LinkedIn](https://www.linkedin.com/in/asa-ace-rogers-4476531b7/)
 - 📫 **softwareace.j@gmail.com**
 - 🧠 [Featured Press](https://www.aamu.edu/about/inside-aamu/news/aamu-students-earn-first-place-in-hackathon.html)
