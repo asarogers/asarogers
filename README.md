@@ -30,7 +30,7 @@ I’m a **Robotics & Software Engineer** who loves bringing ideas to life — wh
 ---
 
 ### 🔗 Links
-- 🌐 [Portfolio Website]([https://asarogers.github.io/Portfolio/](https://www.aethurtech.com/))
+- 🌐 [Portfolio Website](https://www.aethurtech.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/asa-ace-rogers-4476531b7/)
 - 📫 **softwareace.j@gmail.com**
 - 🧠 [Featured Press](https://www.aamu.edu/about/inside-aamu/news/aamu-students-earn-first-place-in-hackathon.html)
