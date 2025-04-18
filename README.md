@@ -5,34 +5,20 @@ Name's **Asa**, but my friends call me **Ace**.
 
 I’m a **Robotics & Software Engineer** who loves bringing ideas to life — whether through sleek mobile apps, dynamic websites, or complex robotic systems. 
 
-I blend creative problem-solving with technical precision to deliver tools that serve people.
-
 ---
 
 ### 🧠 What I’m About:
+- 🌐 Full-stack engineering (React, Node.js, Mongo, SQL)
 - 🤖 **ROS 2**, SLAM, and embedded robotics
 - 🎯 YOLO + behavior-driven detection & feedback
-- 🌐 Full-stack engineering (React, Node.js, Mongo, SQL)
 - 🧩 Cloud & DevOps: AWS, Azure, GCP, Docker
 - 🔊 Real-time feedback systems (Bluetooth, audio)
 - 🧵 Microcontrollers, low-level firmware, custom GUIs
 
 ---
 
-### 💡 Building: **EtherTech**
+### 💡 Building: **Aethur Tech**
 > A hybrid consulting and software development firm that empowers small businesses through tailored tech solutions.
-
-We:
-- Interview business owners *and* their customers
-- Uncover pain points from both ends
-- Design jobs-to-be-done solutions
-- Deliver custom platforms (POS, ordering, UX/UI revamps)
-- Collect micro-fees (e.g., $0.50/purchase) to align success
-
-✨ Revenue = Scalable product sales + usage-based SaaS billing  
-🛠️ Maintenance = Monthly request limits + on-demand tiers  
-🧰 Support = 48-hour bug response guarantees  
-
 ---
 
 ### 🏆 Hackathon W's
