@@ -1,9 +1,9 @@
-### Hi friends,
+### Hi person,
 Name's **Asa**, but my friends call me **Ace**.
 
 ---
 
-I'm a **Robotics & Software Engineer** with a passion for building real systems that do real work — whether it's guiding robots through space or crafting intuitive software that small businesses can actually *use*.  
+I’m a **Robotics & Software Engineer** who loves bringing ideas to life — whether through sleek mobile apps, dynamic websites, or complex robotic systems. 
 
 I blend creative problem-solving with technical precision to deliver tools that serve people.
 
