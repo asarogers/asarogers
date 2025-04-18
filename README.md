@@ -55,7 +55,7 @@ We:
 ### 🔗 Links
 - 🌐 [Portfolio Website](https://asarogers.github.io/Portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/asa-ace-rogers-4476531b7/)
-- 📫 **so-wareace.j@gmail.com**
+- 📫 **softwareace.j@gmail.com**
 - 🧠 [Featured Press](https://www.aamu.edu/about/inside-aamu/news/aamu-students-earn-first-place-in-hackathon.html)
 
 ---
